@@ -20,6 +20,16 @@ Technologies:
 
 •	JavaScript  
 
+Project Structure:
+
+project/
+
+│
+
+├── main.js
+
+└── README.md
+
 Concepts Demonstrated:
 
 •	Classes and Objects 
